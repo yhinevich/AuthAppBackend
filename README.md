@@ -1,1 +1,1 @@
-# AuthAppBackend
+https://github.com/yhinevich/AuthAppFrontend
